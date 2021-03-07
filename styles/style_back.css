@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html {
+    font-size: 10px;
+}
+
+body {
+    background: #555;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    margin-top: 1.5rem;
+}
+
+.theme_name {
+    margin-top: -0.5rem;
+    font-size: 2rem;
+    color: #ffffff;
+}
+
+.block_line {
+    width: 283px;
+    height: 2px;
+    background-color: #ffffff;
+    margin-left: 1rem;
+}
+
+.first_theme {
+    display: flex;
+    align-items: center;
+}
+.second_theme {
+    width: 590px;
+    margin-left:auto;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.center_ball {
+    padding: 1rem;
+    background-color: #ffffff;
+    border-radius: 2rem;
+    border: 1rem solid #ff11ff;
+    width: 3rem;
+}
+
+.block_line_height {
+    margin: 0 auto;
+    height: 10rem;
+    width: 2px;
+    background-color: #ffffff;
+}
+
+.position_ball {
+    margin: 0 auto;
+    border: 1rem solid #cd6ab0;
+    margin-left: 0;
+}
+
+.second_line {
+    width: 250px;
+    height: 2px;
+    background: #ffffff;
+    margin-left: 0;
+}
+
+.second_theme_name {
+    font-size: 2rem;
+    color: #ffffff;
+    width: 300px;
+    margin-left: 1rem;
+}
+
+.block_1_create_server {
+    margin: 1rem;
+    font-size: 1.5rem;
+    width: 500px;
+}
+h1 {
+    padding: 0.5rem;
+}
+
+p {
+    padding: 0.5rem;
+    background: #ffffff;
+    margin: 0.5rem;
+}
+
+.img_npm_init {
+    width: 500px;
+}
